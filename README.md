@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Tamer Ali 👋
 
-<!--
-**tamer3li/tamer3li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Software Engineer | Transitioning to Data Engineering**
 
-Here are some ideas to get you started:
+I’m a software engineer based in Liverpool, UK, with **6 years of embedded-systems experience**. I build reliable software in C/C++ and am now developing production-minded data engineering skills in Python, SQL, Docker, and modern data tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m focused on
+
+- Building practical data engineering projects from ingestion to analysis
+- Strengthening SQL, Python, Docker, and data-pipeline fundamentals
+- Applying an embedded engineer’s mindset: reliability, performance, and clean design
+
+## Technical background
+
+- **Languages:** C, C++, Python, SQL, Swift
+- **Data:** SQL, data modelling, ETL/ELT fundamentals
+- **Tools:** Docker, Git, Linux
+- **Engineering:** embedded systems, debugging, testing, performance-aware development
+
+## Featured work
+
+- **DataScienceSalary** — a dataset exploring Data Science salaries from 2020–2022.
+- **JobCandidateSelection** — a C++ project focused on candidate selection.
+- More end-to-end data engineering projects are in progress.
+
+## Let’s connect
+
+- LinkedIn: [Tamer Ali](https://www.linkedin.com/in/tamer-ali-973bab11b/)
+- GitHub: [@tamer3li](https://github.com/tamer3li)
+
+> Currently building a portfolio that combines solid software engineering foundations with practical data engineering skills.
