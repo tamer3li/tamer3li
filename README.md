@@ -12,7 +12,7 @@ I’m a software engineer based in Liverpool, UK, with **6 years of embedded-sys
 
 ## Technical background
 
-- **Languages:** C, C++, Python, SQL
+- **Languages:** Python, SQL, C
 - **Data:** SQL, data modelling, ETL/ELT fundamentals
 - **Tools:** Docker, Git
 - **Engineering:** embedded systems, debugging, testing, performance-aware development
