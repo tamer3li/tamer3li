@@ -1,6 +1,6 @@
 # Hi, I’m Tamer Ali 👋
 
-**Embedded Software Engineer | Transitioning to Data Engineering**
+**Data Engineer**
 
 I’m a software engineer based in Liverpool, UK, with **6 years of embedded-systems experience**. I build reliable software in C/C++ and am now developing production-minded data engineering skills in Python, SQL, Docker, and modern data tooling.
 
@@ -12,15 +12,14 @@ I’m a software engineer based in Liverpool, UK, with **6 years of embedded-sys
 
 ## Technical background
 
-- **Languages:** C, C++, Python, SQL, Swift
+- **Languages:** C, C++, Python, SQL
 - **Data:** SQL, data modelling, ETL/ELT fundamentals
-- **Tools:** Docker, Git, Linux
+- **Tools:** Docker, Git
 - **Engineering:** embedded systems, debugging, testing, performance-aware development
 
 ## Featured work
 
 - **DataScienceSalary** — a dataset exploring Data Science salaries from 2020–2022.
-- **JobCandidateSelection** — a C++ project focused on candidate selection.
 - More end-to-end data engineering projects are in progress.
 
 ## Let’s connect
